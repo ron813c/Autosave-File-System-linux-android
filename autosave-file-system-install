@@ -1,0 +1,18 @@
+README.md
+@@ -0,0 +1,15 @@ 
+onCreate=null 
+onResume! 
+onPause! 
+onActivityResult=2 0 
+onResume! 
+onPause! 
+onSaveInstanceState! 
+onPause! 
+onCreate=null 
+onResume! 
+onPause!
+onActivityResault=2 0 
+onMakeDirectoryAutosaveFileSystem!
+onSaveInstanceState! 
+onPause!
+onDestroy!
