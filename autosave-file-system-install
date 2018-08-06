@@ -1,18 +1,16 @@
-README.md
-@@ -0,0 +1,15 @@ 
-onCreate=null 
-onResume! 
-onPause! 
-onActivityResult=2 0 
-onResume! 
-onPause! 
-onSaveInstanceState! 
-onPause! 
-onCreate=null 
-onResume! 
-onPause!
-onActivityResault=2 0 
-onMakeDirectoryAutosaveFileSystem!
-onSaveInstanceState! 
-onPause!
-onDestroy!
+# echo onCreate=null 
+# echo onResume! 
+# echo onPause! 
+# echo onActivityResult=2 0 
+# echo onResume! 
+# echo onPause! 
+# echo onSSaveInstanceState!
+# echo onCreate
+# echo onPause!
+# echo onResume!
+# echo onPause!
+# echo onActivityResault=2 0
+# echo onMakeDirectoryAutosaveFileSystem!
+# echo onSSaveInstanceState
+# echo onPause!
+# echo onDestroy!
